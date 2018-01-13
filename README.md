@@ -1,2 +1,2 @@
-# DataScience_repo
+# datasciencecoursera
 This is my first repo 
